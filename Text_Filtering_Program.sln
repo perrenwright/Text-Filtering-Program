@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Text_Filtering_Program", "Text_Filtering_Program\Text_Filtering_Program.pyproj", "{F620E7C4-71DA-4ED3-A25B-B055F41E99BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F620E7C4-71DA-4ED3-A25B-B055F41E99BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F620E7C4-71DA-4ED3-A25B-B055F41E99BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16BAB151-09E2-424A-B258-750B4D863C54}
+	EndGlobalSection
+EndGlobal
